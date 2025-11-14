@@ -1,0 +1,6 @@
+# Millennium Falcon Mission Calculator
+# No external dependencies required - uses only Python standard library
+
+# Optional: For development and type checking
+# mypy>=1.0.0
+# pytest>=7.0.0
